@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.00000002980232" height="58.00000002980232" fill="none"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" style="" class=""/>
+
+<defs>
+<filter id="filter0_d_1_11100" x="0" y="0.21630899608135223" width="87.75700378417969" height="87.7571029663086" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.890196 0 0 0 0 0.721569 0 0 0 0 0.45098 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_11100"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_11100" result="shape"/>
+</filter>
+</defs>
+<g class="currentLayer" style=""><title>Layer 1</title><g filter="url(#filter0_d_1_11100)" id="svg_1" class="">
+<rect x="8.121452331542969" y="8.121451377868652" width="41.75709915161133" height="41.75709915161133" rx="20.87849998474121" fill="#E3B873" id="svg_2"/>
+<rect x="4.121452331542969" y="4.121452331542969" width="49.75709915161133" height="49.75709915161133" rx="24.87849998474121" stroke="white" stroke-width="8" id="svg_3"/>
+</g></g></svg>
